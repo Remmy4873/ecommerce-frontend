@@ -11,7 +11,7 @@ Shopping cart management
 
 # Installation
 # Clone the repository:
-git clone https://github.com/your-repo/ecommerce-frontend.git
+git clone https://github.com/Remmy4873/ecommerce-frontend.git
 cd ecommerce-frontend
 
 ## Install dependencies:
